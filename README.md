@@ -7,5 +7,10 @@ The data is from 2023 (post-protest), from the Latinobarómetro, a regional publ
 ## Conclusion
 Our findings suggest that perceptions of the economy are particularly strong predictors of Chileans’ likelihood to protest, based on results from both random forest and logistic regression models.
 ## Files
-[stats0218_finaldata.csv](https://github.com/user-attachments/files/20778725/stats0218_finaldata.csv)# chile-protest-prediction
-[FINAL (1).pdf](https://github.com/user-attachments/files/20778746/FINAL.1.pdf)
+## Files
+
+- [View the Report (HTML)](report.html)
+- [View the Report (PDF)](report.pdf)
+- [R Markdown Code](analysis.Rmd)
+- [Cleaned Dataset](stats0218_finaldata.csv)
+- [Original Dataset](original_data.dta)
