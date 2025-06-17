@@ -7,3 +7,6 @@ In 2019 after the government decided to increase the per metro fare by four perc
 The data is from 2023 (post-protest), from the Latinobarómetro, a regional public opinion survey conducted annually across 18 Latin American countries. The survey covers a wide range of political, economic, and social topics and includes a nationally representative sample of approximately 1,200 respondents in Chile.
 ## Conclusion
 Our findings suggest that perceptions of the economy are particularly strong predictors of Chileans’ likelihood to protest, based on results from both random forest and logistic regression models.
+## Files
+
+[FINAL (1).pdf](https://github.com/user-attachments/files/20778566/FINAL.1.pdf)
